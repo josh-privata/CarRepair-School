@@ -21,6 +21,7 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
+
 ## Synopsis
 Car Repairs Shop (CRS) undertakes car repairs for their customers. A car repair job could
 be either a maintenance job or a breakdown repair job. You have been asked to develop a
