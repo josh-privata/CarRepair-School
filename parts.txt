@@ -1,0 +1,10 @@
+bolt,6,connectors,01.00
+cat,4,feline,30.00
+cheese,8,food,12.00
+cherrybomb,5,defense,00.50
+hat,10,headwear,200.00
+shoe,1,footwear,12.00
+spoon,3,cutlery,01.00
+sweatband,11,absorbant,05.00
+wheel,2,accessory,99.00
+wine,8,drinkies,32.00
